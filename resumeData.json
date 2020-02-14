@@ -113,6 +113,12 @@
         "url": "https://s2.pdkk.com"
       },
       {
+        "title": "云信号企业管理后台",
+        "category": "超级管理后台",
+        "image": "pdkkmanage.jpg",
+        "url": "https://manage.pdkk.com/"
+      },
+      {
         "title": "云信号",
         "category": "外汇跟单交易系统",
         "image": "pdkk.jpg",
@@ -125,10 +131,34 @@
         "url": "https://apps.apple.com/cn/app/%E6%9C%89%E7%A8%8E/id1146750037"
       },
       {
-        "title": "云信号WebApp",
+        "title": "upToCoin",
+        "category": "PC版",
+        "image": "uptocoinpc.jpg",
+        "url": "http://175.6.7.167:5678"
+      },
+      {
+        "title": "upToCoin管理后台",
+        "category": "App",
+        "image": "uptocoinadmin.jpg",
+        "url": "http://175.6.7.167:5679/"
+      },
+      {
+        "title": "云信号(WebApp)",
         "category": "WebApp",
         "image": "pdkkwebapp.jpg",
         "url": "https://m.pdkk.com/"
+      },
+      {
+        "title": "云信号(APP)",
+        "category": "App",
+        "image": "pdkkapp.jpg",
+        "url": "https://m.pdkk.com/download/apk/pdkk/release/app-pdkk-release.apk"
+      },
+      {
+        "title": "upToCoin(APP)",
+        "category": "App",
+        "image": "upToCoin.jpg",
+        "url": "https://m.pdkk.com/download/apk/pdkk/release/pdkk-release.apk"
       }
     ]
   },
