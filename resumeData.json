@@ -16,8 +16,13 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "github",
+        "name": "github1",
         "url": "https://github.com/Uil-Nehz",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "github2",
+        "url": "https://github.com/Torch-light",
         "className": "fa fa-github"
       }
     ]
@@ -84,14 +89,14 @@
     "skills": [
       {
         "name": "react",
-        "level": "80%"
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
       },
       {
         "name": "react-native",
-        "level": "80%"
-      },
-      {
-        "name": "vue",
         "level": "70%"
       },
       {
@@ -99,8 +104,16 @@
         "level": "70%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "vue",
+        "level": "70%"
+      },
+      {
+        "name": "angular1-2",
+        "level": "50%"
+      },
+      {
+        "name": "node",
+        "level": "50%"
       }
     ]
   },
@@ -129,6 +142,12 @@
         "category": "一键开票App",
         "image": "youshui.jpg",
         "url": "https://apps.apple.com/cn/app/%E6%9C%89%E7%A8%8E/id1146750037"
+      },
+      {
+        "title": "有税(WepApp)",
+        "category": "一键开票App",
+        "image": "youshuiwep.jpg",
+        "url": "https://youshui.ren/"
       },
       {
         "title": "upToCoin",
