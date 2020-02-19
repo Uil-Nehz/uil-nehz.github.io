@@ -55,8 +55,9 @@
         "title": "node工程师",
         "years": "2017.2-2017.4",
         "description": [
-          "1、负责微店项目",
+          "1、负责大发微店项目",
           "2、负责部分h5活动游戏开发",
+          "3、负责仁恒东郊花园投票活动开发",
           "(这家公司待得时间相当短,因为当时家中有事,在家远程办公了一个月,后面觉得不好沟通协调也就辞职了。)"
         ]
       },
@@ -77,12 +78,12 @@
         "years": "2017.8-至今",
         "description": [
           "1、负责技术选型人员招聘",
-          "2、负责vue react 架构设计以及ui组件",
+          "2、负责vue react 架构设计以及公司内部ui库开发",
           "3、服务端渲染解决方案",
           "4、自研react状态管理组件",
           "5、react-native+react-native-web跨平台开发",
-          "6、负责公司各类后台管理系统开发",
-          "7、android工具开发"
+          "6、主导公司各类后台管理系统开发",
+          "7、android监听工具开发"
         ]
       }
     ],
@@ -120,22 +121,40 @@
   "portfolio": {
     "projects": [
       {
-        "title": "云信号超级管理后台",
-        "category": "超级管理后台",
+        "title": "云信号超级后台管理",
+        "category": "超级后台管理",
         "image": "lemas2.jpg",
         "url": "https://s2.pdkk.com"
       },
       {
-        "title": "云信号企业管理后台",
-        "category": "超级管理后台",
+        "title": "云信号企业后台管理",
+        "category": "管理系统",
         "image": "pdkkmanage.jpg",
         "url": "https://manage.pdkk.com/"
+      },
+      {
+        "title": "云信号后台管理",
+        "category": "外汇跟单交易系统",
+        "image": "signalAdmin.jpg",
+        "url": "http://pdkk.com/manager/center"
       },
       {
         "title": "云信号",
         "category": "外汇跟单交易系统",
         "image": "pdkk.jpg",
         "url": "https://pdkk.com/"
+      },
+      {
+        "title": "云信号(APP)",
+        "category": "App",
+        "image": "pdkkapp.jpg",
+        "url": "https://m.pdkk.com/download/apk/pdkk/release/app-pdkk-release.apk"
+      },
+      {
+        "title": "云信号(WebApp)",
+        "category": "WebApp",
+        "image": "pdkkwebapp.jpg",
+        "url": "https://m.smartcopytrade.com/"
       },
       {
         "title": "有税",
@@ -156,27 +175,21 @@
         "url": "http://175.6.7.167:5678"
       },
       {
-        "title": "upToCoin管理后台",
+        "title": "upToCoin后台管理",
         "category": "App",
         "image": "uptocoinadmin.jpg",
         "url": "http://175.6.7.167:5679/"
       },
       {
-        "title": "云信号(WebApp)",
-        "category": "WebApp",
-        "image": "pdkkwebapp.jpg",
-        "url": "https://m.pdkk.com/"
-      },
-      {
-        "title": "云信号(APP)",
-        "category": "App",
-        "image": "pdkkapp.jpg",
-        "url": "https://m.pdkk.com/download/apk/pdkk/release/app-pdkk-release.apk"
-      },
-      {
         "title": "upToCoin(APP)",
         "category": "App",
         "image": "upToCoin.jpg",
+        "url": "https://m.pdkk.com/download/apk/pdkk/release/pdkk-release.apk"
+      },
+      {
+        "title": "PayCloud码商后台管理",
+        "category": "Web",
+        "image": "codeBit.jpg",
         "url": "https://m.pdkk.com/download/apk/pdkk/release/pdkk-release.apk"
       }
     ]
@@ -184,12 +197,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "text",
+        "user": "text"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "text",
+        "user": "text"
       }
     ]
   }
