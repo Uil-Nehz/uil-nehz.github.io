@@ -2,9 +2,9 @@
   "main": {
     "name": "刘桢",
     "occupation": "Web前端高级工程师 | 端应用跨平台开发",
-    "description": "Hello World",
+    "description": "四年开发经验,对前端整个生态比较了解,从事过外卖点餐、H5、金融、区块链、公共交通等领域的应用开发,具有深刻的业务理解能力",
     "image": "avatar.jpg",
-    "bio": "热爱滑板",
+    "bio": "热爱滑板的程序员",
     "email": "",
     "phone": "",
     "address": {
@@ -77,7 +77,7 @@
         "title": "Web前端高级工程师",
         "years": "2017.8-至今",
         "description": [
-          "1、负责技术选型人员招聘",
+          "1、负责技术选型以及人员招聘",
           "2、负责vue react 架构设计以及公司内部ui库开发",
           "3、服务端渲染解决方案",
           "4、自研react状态管理组件",
